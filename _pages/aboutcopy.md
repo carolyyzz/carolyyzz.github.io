@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /about
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 Bio
 ======
@@ -15,5 +12,6 @@ Contact
 ------
 **Email**: yi_zhang@fas.harvard.edu  
 **Address**: 1 Oxford Street, Cambridge, MA 02138
+
 
 
