@@ -36,3 +36,16 @@ Molei Liu\*, Yi Zhang\*, Doudou Zhou\*. (2020)
 <font size=2>*: The authors contributed equally to this work or are listed in alphabetic order. </font>
 
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+
+{% for post in site.research reversed %}
+
+ {% include archive-single.html %}
+{% endfor %}
+
+
