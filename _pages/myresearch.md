@@ -5,7 +5,7 @@ permalink: /myresearch/
 author_profile: true
 ---
 
-my Research Interests
+Research Interests
 -------
 My research interests focus on developing statistical tools for robust causal inference and data-driven decision-making in social and biomedical sciences. Specifically, I have been working on
 * Policy learning in causal inference
