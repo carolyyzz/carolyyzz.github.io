@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi Zhang"
+title                    : "Yi Zhang/Harvard Statistics"
 title_separator          : "-"
 name                     : &name "Yi Zhang"
 description              : &description "PhD student, Department of Statistics at Harvard University"
