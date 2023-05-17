@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi Zhang"
+title                    : "Yi Zhang 张艺"
 title_separator          : "-"
 name                     : &name "Yi Zhang"
-description              : &description "PhD student, Department of Statistics at Harvard University"
+description              : &description "Ph.D. student, Department of Statistics at Harvard University"
 url                      : https://carolyyzz.github.io #http://localhost:4000/ the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carolyyzz/carolyyzz.github.io"
