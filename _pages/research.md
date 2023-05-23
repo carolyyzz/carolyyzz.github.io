@@ -16,11 +16,11 @@ Working Papers and Publications
 -------
 **Safe Policy Learning under Regression Discontinuity Designs**  
 Yi Zhang, Eli Ben-Michael, Kosuke Imai. (2022)  
-*2023 JSM Best Student Paper Award in Social Statistics Section*  
+*2023 American Statistical Association Student Paper Award in Social Statistics Section*  
 [[arXiv]](https://arxiv.org/abs/2208.13323)
 
 **Heterogeneous Causal Effect Estimation in Underrepresented Populations: Federated and Transfer Learning Approaches**  
-Larry Han,Yi Zhang, Rui Duan  
+Larry Han, Yi Zhang, Rui Duan.  
 *In preparation*, 2023  
 
 **Augmented Transfer Regression Learning with Semi-non-parametric Nuisance Models**  
