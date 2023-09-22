@@ -15,8 +15,8 @@ My research interests focus on developing statistical tools for robust causal in
 Working Papers and Publications
 -------
 **Individualized Policy Learning under Clustered Network Interference**  
-Yi Zhang, Kosuke Imai. (2023)  
-*Draft coming soon*
+Yi Zhang, Kosuke Imai.
+*Draft coming soon*, 2023
   
 **Safe Policy Learning under Regression Discontinuity Designs with Multiple Cutoffs**  
 Yi Zhang, Eli Ben-Michael, Kosuke Imai. (2022)  
