@@ -14,9 +14,9 @@ My research interests focus on developing statistical tools for robust causal in
 
 Working Papers and Publications
 -------
-**Individualized Policy Learning under Clustered Network Interference**  
-Yi Zhang, Kosuke Imai.
-*Draft coming soon*, 2023
+**Individualized Policy Evaluation and Learning under Clustered Network Interference**  
+Yi Zhang, Kosuke Imai. (2023)    
+[[arXiv]](http://arxiv.org/abs/2311.02467)
   
 **Safe Policy Learning under Regression Discontinuity Designs with Multiple Cutoffs**  
 Yi Zhang, Eli Ben-Michael, Kosuke Imai. (2022)  
@@ -29,8 +29,8 @@ Larry Han, Yi Zhang, Rui Duan.
 
 **Augmented Transfer Regression Learning with Semi-non-parametric Nuisance Models**  
 Molei Liu\*, Yi Zhang\*, Katherine P Liao, Tianxi Cai. (2022)     
-*Journal of Machine Learning Research (forthcoming)*, 2023    
-[[arXiv]](https://arxiv.org/abs/2010.02521)
+*Journal of Machine Learning Research*, 2023    
+[[arXiv]](https://arxiv.org/abs/2010.02521)[[Journal]](https://www.jmlr.org/papers/v24/22-0700.html)
 
 **Double/Debiased Machine Learning for Logistic Partially Linear Model**  
 Molei Liu\*, Yi Zhang\*, Doudou Zhou\*. (2020)   
