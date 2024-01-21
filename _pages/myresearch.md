@@ -20,17 +20,17 @@ Yi Zhang, Kosuke Imai. (2023)
 [[arXiv]](http://arxiv.org/abs/2311.02467)
   
 **Safe Policy Learning under Regression Discontinuity Designs with Multiple Cutoffs**  
-Yi Zhang, Eli Ben-Michael, Kosuke Imai. (2022)  
+Yi Zhang, Eli Ben-Michael, Kosuke Imai. (2022)   
 *2023 JSM Best Student Paper Award in Social Statistics Section*  
 [[arXiv]](https://arxiv.org/abs/2208.13323)
 
-**AI and Generative AI for Research Discovery and Summarization**
-Mark Glickman, Yi Zhang. (2024)
+**AI and Generative AI for Research Discovery and Summarization**  
+Mark Glickman, Yi Zhang. (2024)  
 [[arXiv]](https://arxiv.org/abs/2401.06795)
 
 **Heterogeneous Causal Effect Estimation in Underrepresented Populations: Federated and Transfer Learning Approaches**  
 Larry Han, Yi Zhang, Rui Duan. 
-*In preparation*, 2023  
+*In preparation*.
 
 **Augmented Transfer Regression Learning with Semi-non-parametric Nuisance Models**  
 Molei Liu\*, Yi Zhang\*, Katherine P Liao, Tianxi Cai. (2022)     
