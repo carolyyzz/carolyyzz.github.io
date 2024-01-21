@@ -15,13 +15,18 @@ My research interests focus on developing statistical tools for robust causal in
 Working Papers and Publications
 -------
 **Individualized Policy Evaluation and Learning under Clustered Network Interference**  
-Yi Zhang, Kosuke Imai. (2023)    
+Yi Zhang, Kosuke Imai. (2023)  
+*2024 JSM Best Student Paper Award in Business and Economic Statistics Section*  
 [[arXiv]](http://arxiv.org/abs/2311.02467)
   
 **Safe Policy Learning under Regression Discontinuity Designs with Multiple Cutoffs**  
 Yi Zhang, Eli Ben-Michael, Kosuke Imai. (2022)  
 *2023 JSM Best Student Paper Award in Social Statistics Section*  
 [[arXiv]](https://arxiv.org/abs/2208.13323)
+
+**AI and Generative AI for Research Discovery and Summarization**
+Mark Glickman, Yi Zhang. (2024)
+[[arXiv]](https://arxiv.org/abs/2401.06795)
 
 **Heterogeneous Causal Effect Estimation in Underrepresented Populations: Federated and Transfer Learning Approaches**  
 Larry Han, Yi Zhang, Rui Duan. 
