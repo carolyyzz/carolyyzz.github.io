@@ -30,7 +30,7 @@ Mark Glickman, Yi Zhang. (2024)
 
 **A Transfer Learning Causal Approach to Evaluate Racial/Ethnic and Geographic Variation in Outcomes Following Congenital Heart Surgery**   
 Larry Han, Yi Zhang, Meena Nathan, John E. Mayer, Jr., Sara K. Pasquali, Katya Zelevinsky, Rui Duan, Sharon-Lise T. Normand. (2024)  
-[[arXiv]](https://arxiv.org/abs/2403.14573)
+[[arXiv]](https://arxiv.org/abs/2403.14573) 
 
 **Heterogeneous Causal Effect Estimation in Underrepresented Populations: Federated and Transfer Learning Approaches**  
 Larry Han, Yi Zhang, Rui Duan. 
