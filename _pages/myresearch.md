@@ -25,8 +25,9 @@ Yi Zhang, Eli Ben-Michael, Kosuke Imai. (2022)
 [[arXiv]](https://arxiv.org/abs/2208.13323)
 
 **AI and Generative AI for Research Discovery and Summarization**  
-Mark Glickman, Yi Zhang. (2024)  
-[[arXiv]](https://arxiv.org/abs/2401.06795)
+Mark Glickman, Yi Zhang. (2024)   
+*Harvard Data Science Review*, 2024   
+[[arXiv]](https://arxiv.org/abs/2401.06795)[[Journal]](https://doi.org/10.1162/99608f92.7f9220ff)
 
 **A Transfer Learning Causal Approach to Evaluate Racial/Ethnic and Geographic Variation in Outcomes Following Congenital Heart Surgery**   
 Larry Han, Yi Zhang, Meena Nathan, John E. Mayer, Jr., Sara K. Pasquali, Katya Zelevinsky, Rui Duan, Sharon-Lise T. Normand. (2024)  
