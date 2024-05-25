@@ -16,7 +16,8 @@ Working Papers and Publications
 -------
 **Individualized Policy Evaluation and Learning under Clustered Network Interference**  
 Yi Zhang, Kosuke Imai. (2023)  
-*2024 JSM Best Student Paper Award in Business and Economic Statistics Section*  
+*2024 JSM Best Student Paper Award in Business and Economic Statistics Section*   
+*The 37th New England Statistics Symposium Student Research Award*     
 [[arXiv]](http://arxiv.org/abs/2311.02467)
   
 **Safe Policy Learning under Regression Discontinuity Designs with Multiple Cutoffs**  
