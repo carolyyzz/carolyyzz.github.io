@@ -9,7 +9,7 @@ redirect_from:
 ---
 Bio
 ======
-Hi! I am a rising final-year PhD student in the Department of Statistics at Harvard University, advised by [Prof. Kosuke Imai](https://imai.fas.harvard.edu). Prior to Harvard, I obtained a B.S. in Statistics from the Special Class for the Gifted Young, [University of Science and Technology of China](http://en.ustc.edu.cn) in 2020.
+Hi! I am a final-year PhD student in the Department of Statistics at Harvard University, advised by [Prof. Kosuke Imai](https://imai.fas.harvard.edu). Prior to Harvard, I obtained a B.S. in Statistics from the Special Class for the Gifted Young, [University of Science and Technology of China](http://en.ustc.edu.cn) in 2020.
 
 Contact
 ------
