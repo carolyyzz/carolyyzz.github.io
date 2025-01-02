@@ -14,6 +14,10 @@ My research interests focus on developing statistical tools for robust causal in
 
 Working Papers and Publications
 -------
+**Minimax Regret Estimation for Generalizing Heterogeneous Treatment Effects with Multisite Data**  
+Yi Zhang, Melody Huang, Kosuke Imai. (2024）  
+[[arXiv]](https://arxiv.org/abs/2412.11136)  
+
 **Individualized Policy Evaluation and Learning under Clustered Network Interference**  
 Yi Zhang, Kosuke Imai. (2023)  
 *2024 JSM Best Student Paper Award in Business and Economic Statistics Section*   
